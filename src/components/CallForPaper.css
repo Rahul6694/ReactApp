@@ -1,0 +1,20 @@
+.wholeContent{
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding:10px;
+    margin: 10px 10px;
+    line-height: 20px;
+}
+
+h3 {
+    text-align: center;
+}
+
+mark {
+    background-color: white;
+    color:navy;
+}
+
+.middleContent, .lowerContent {
+    line-height: 28px;
+}

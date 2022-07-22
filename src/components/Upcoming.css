@@ -1,0 +1,20 @@
+mark {
+    background-color: white;
+    color:navy;
+}
+
+h3 {
+    text-align: center;
+}
+
+.content {
+    line-height: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding:10px;
+    margin: 10px 10px;
+}
+
+.halfBody {
+    line-height: 24px;
+}

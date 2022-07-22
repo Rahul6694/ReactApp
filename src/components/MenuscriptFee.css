@@ -1,0 +1,30 @@
+.heading {
+    text-align: center;
+}
+
+.wholeContent {
+    box-sizing: border-box;
+    padding: 10px;
+    border: 1px solid grey;
+    margin:7px;
+    border-radius: 10px;
+    line-height: 25px;
+}
+
+.image{
+    width: 100%;
+    max-width: 720px;
+}
+
+table, th, td {
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 10px;
+    border-collapse: collapse;
+    padding:5px;
+}
+
+.containTable {
+    margin: auto;
+    width: 90%;
+}
